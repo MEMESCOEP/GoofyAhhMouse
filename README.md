@@ -13,5 +13,4 @@ These functions include:
 Required modules are:
 * keyboard
 * screeninfo
-* psutil
 * pyautogui
