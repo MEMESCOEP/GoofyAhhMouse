@@ -9,7 +9,6 @@ from datetime import datetime
 import pyautogui
 import keyboard
 import random
-import psutil
 import time
 import sys
 import os
