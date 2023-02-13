@@ -11,6 +11,6 @@ These functions include:
 * Moving or dragging the mouse to random positions relative to the current mouse position
 
 Required modules are:
-* keyboard
-* screeninfo
-* pyautogui
+* keyboard (For hotkeys)
+* screeninfo (For getting the screen resolution/bounds)
+* pyautogui (For performing mouse functions)
